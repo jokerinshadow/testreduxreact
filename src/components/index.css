@@ -1,0 +1,18 @@
+*{
+  list-style: none;
+}
+.close {
+  position: absolute;
+  top: 12px;
+  right: 20px;
+}
+.li{
+  position: relative;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+h5{
+  margin-top: 20px;
+}
